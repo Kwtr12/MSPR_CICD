@@ -6,6 +6,7 @@
 
 <table border="0">
 <tr>
+<th> Month </th>
 <td align=center>
 <img src="images/tomcat.gif">
 </td>
